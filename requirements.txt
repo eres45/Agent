@@ -1,0 +1,13 @@
+requests
+python-dotenv
+selenium
+webdriver-manager
+pillow
+numpy
+opencv-python
+pyyaml
+pandas
+openpyxl
+psutil
+websocket-client
+schedule
